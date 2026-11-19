@@ -1,21 +1,3 @@
-
-
-1. Create the virtual Enviroment
-
-'''bash
-conda create -n travel python=3.11 -y
-
-
-2.  Activate the Enviromenent
-
-conda activate travel
-
-
-3. Install the Requirement  
-
-pip install -r requirements.txt
-
-
 # ✈️ TripMate AI — A Multi-Agent Travel Planner with LangGraph
 
 An open-source AI travel planner that turns a natural-language trip request into a practical travel plan with flight suggestions, hotel ideas, and a day-by-day itinerary. The project uses a multi-agent workflow built with LangGraph, LangChain, and FastAPI.
